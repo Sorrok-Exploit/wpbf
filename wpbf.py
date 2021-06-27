@@ -23,12 +23,12 @@ except ImportError:
              ''``
         
         ---------------------------------------------------------------
-        |                     SORROK-EXPLOIT TEAM                          |
+        |                     SORROK-EXPLOIT TEAM                     |
         |=============================================================|
-        | AUTHOR            : N-24                  |
-        | INSTAGRAM        : @Nober_ld                              |
-        | TELEGRAM : https://t.me/nocheatnogamee                            |
-        | Website Team     : www.berbagitrik.my.id       v vv  v        |
+        | AUTHOR           : N-24                                     |
+        | INSTAGRAM        : @Nober_ld                                |
+        | TELEGRAM         : https://t.me/nocheatnogamee              |
+        | Website Team     : www.berbagitrik.my.id       v vv  v      |
         ===============================================================
         
         SORROK-EXPKOIT TEAM                github.com/Sorrok-Exploit
@@ -164,12 +164,12 @@ class WordPress_priv8Bf(object):
              ''``
         
         ---------------------------------------------------------------
-        |                     SORROK-EXPLOIT TEAM                          |
+        |                     SORROK-EXPLOIT TEAM                     |
         |=============================================================|
-        | AUTHOR            : N-24                  |
-        | INSTAGRAM        : @Nober_ld                              |
-        | TELEGRAM : https://t.me/nocheatnogamee                            |
-        | Website Team     : www.berbagitrik.my.id       v vv  v        |
+        | AUTHOR           : N-24                                     |
+        | INSTAGRAM        : @Nober_ld                                |
+        | TELEGRAM         : https://t.me/nocheatnogamee              |
+        | Website Team     : www.berbagitrik.my.id       v vv  v      |
         ===============================================================
         
         SORROK-EXPKOIT TEAM                github.com/Sorrok-Exploit
