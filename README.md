@@ -1,9 +1,6 @@
 # wpbf-n24
 WordPress Brute Force V2
 
-# wp-brute
-Wordpress brute forcer
-
 Here's a couple of examples
 
 A local session with no proxy
