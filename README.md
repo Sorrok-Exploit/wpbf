@@ -1,4 +1,4 @@
-# wpbf-n24
+# wpbf
 WordPress Brute Force V2
 
 Here's a couple of examples
